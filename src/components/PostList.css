@@ -1,0 +1,24 @@
+h2 {
+    color: rgb(126, 33, 33);
+    padding-left: 10px;
+}
+
+h2:first-letter {
+    text-transform: uppercase;
+}
+
+p {
+    padding: 0px 10px;
+}
+
+p:last-child {
+    margin-bottom: 15px;
+}
+
+p:first-letter {
+    text-transform: uppercase;
+}
+
+.header {
+    padding-left: 10px; 
+}
